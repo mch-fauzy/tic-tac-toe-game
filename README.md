@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-This is a basic implementation of the Tic Tac Toe game built with React and Chakra UI. The game features a simple interface where two players can take turns to play. The game will display the winner or a draw when the game ends.
+This is a basic implementation of the Tic Tac Toe game built with React Vite and Chakra UI. The game features a simple interface where two players can take turns to play. The game will display the winner or a draw when the game ends.
 
 ## Table of Contents
 
