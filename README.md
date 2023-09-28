@@ -2,6 +2,8 @@
 
 This is a basic implementation of the Tic Tac Toe game built with React Vite and Chakra UI. The game features a simple interface where two players can take turns to play. The game will display the winner or a draw when the game ends.
 
+You can play the game in [here](https://tic-tac-toe-game-silk-chi.vercel.app/) or deploy it manually below.
+
 ## Table of Contents
 
 - [Features](#features)
